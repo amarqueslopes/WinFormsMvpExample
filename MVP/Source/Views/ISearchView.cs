@@ -1,19 +1,17 @@
 ﻿using System;
 using WinFormsMvp;
 
-using MVP.Source.Models;
-
 namespace MVP.Source.Views
 {
     public interface ISearchView : IView
     {
-        event EventHandler ViewLoding;
+        event EventHandler ViewLoading;
         event EventHandler SearchInDocument;
         event EventHandler SaveSearchData;
         event EventHandler OnInit;
 
         void ConfirmLoaded();
-        void BindAttribute(string type, string attribute, SearchData model);
+        void BindAttribute(string type, string attribute, object model);
 
         string SearchText { get; set; }
         string StatusText { get; set; }

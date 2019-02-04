@@ -17,7 +17,7 @@ namespace MVP.Presenters
 
         public SearchPresenter(ISearchView view) : base(view)
         {
-            View.ViewLoding += View_ViewLoding;
+            View.ViewLoading += View_ViewLoding;
             View.SearchInDocument += View_SearchInDocument;
             View.SaveSearchData += View_SaveSearchData;
             View.OnInit += View_OnInit;
@@ -33,11 +33,11 @@ namespace MVP.Presenters
             View.StatusText = Properties.Locale.SearchView_Searching;
             if (wordService.FindNext(View.SearchText))
             {
-                View.StatusText = "Texto encontrado!";
+                View.StatusText = Properties.Locale.SearchView_TextFound;
             }
             else
             {
-                View.StatusText = "Nenhuma ocorrência encontrada!";
+                View.StatusText = Properties.Locale.SearchView_TextNotFound;
             }
         }
 

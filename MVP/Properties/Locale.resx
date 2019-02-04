@@ -138,4 +138,10 @@
   <data name="SearchView_Searching" xml:space="preserve">
     <value>Procurando.</value>
   </data>
+  <data name="SearchView_TextFound" xml:space="preserve">
+    <value>Texto encontrado!</value>
+  </data>
+  <data name="SearchView_TextNotFound" xml:space="preserve">
+    <value>Nenhuma ocorrência encontrada!</value>
+  </data>
 </root>

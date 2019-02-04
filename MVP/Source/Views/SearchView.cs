@@ -1,5 +1,4 @@
-﻿using MVP.Source.Models;
-using MVP.Source.Views;
+﻿using MVP.Source.Views;
 using WinFormsMvp.Forms;
 using System;
 using System.Windows.Forms;
@@ -24,11 +23,11 @@ namespace MVP.Source.Forms
 
         protected virtual void OnViewLoding()
         {
-            ViewLoding?.Invoke(this, EventArgs.Empty);
+            ViewLoading?.Invoke(this, EventArgs.Empty);
         }
 
 
-        public event EventHandler ViewLoding;
+        public event EventHandler ViewLoading;
         public event EventHandler SearchInDocument;
         public event EventHandler SaveSearchData;
         public event EventHandler OnInit;
@@ -45,7 +44,7 @@ namespace MVP.Source.Forms
             }
         }
 
-        public void BindAttribute(string type, string attribute, SearchData model)
+        public void BindAttribute(string type, string attribute, object model)
         {
             if (model != null)
             {

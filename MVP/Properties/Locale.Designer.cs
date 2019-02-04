@@ -122,5 +122,23 @@ namespace MVP.Properties {
                 return ResourceManager.GetString("SearchView_Searching", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Texto encontrado!.
+        /// </summary>
+        internal static string SearchView_TextFound {
+            get {
+                return ResourceManager.GetString("SearchView_TextFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Nenhuma ocorrência encontrada!.
+        /// </summary>
+        internal static string SearchView_TextNotFound {
+            get {
+                return ResourceManager.GetString("SearchView_TextNotFound", resourceCulture);
+            }
+        }
     }
 }
