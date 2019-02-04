@@ -1,5 +1,0 @@
-C:\Code\lex-in\MvpFramework\WinFormsMvp\bin\Release\WinFormsMvp.dll
-C:\Code\lex-in\MvpFramework\WinFormsMvp\bin\Release\WinFormsMvp.pdb
-C:\Code\lex-in\MvpFramework\WinFormsMvp\obj\Release\WinFormsMvp.dll
-C:\Code\lex-in\MvpFramework\WinFormsMvp\obj\Release\WinFormsMvp.pdb
-C:\Code\lex-in\MvpFramework\WinFormsMvp\obj\Release\WinFormsMvp.csprojResolveAssemblyReference.cache

@@ -25,7 +25,7 @@ namespace MVP.Presenters
             wordService = WordService.Instance;
             searchDataRepository = SearchDataXmlRepository.Instance;
 
-            searchData = searchDataRepository.GetSearchData();
+            this.searchData = searchDataRepository.GetSearchData();
         }
 
         private void View_SearchInDocument(object sender, EventArgs e)
@@ -43,7 +43,7 @@ namespace MVP.Presenters
 
         private void View_SaveSearchData(object sender, EventArgs e)
         {
-            searchDataRepository.SetSearchData(searchData);
+            searchDataRepository.SetSearchData(this.searchData);
         }
 
         private void View_ViewLoding(object sender, EventArgs e)
@@ -52,7 +52,7 @@ namespace MVP.Presenters
         }
         private void View_OnInit(object sender, EventArgs e)
         {
-            View.BindAttribute("Text", "Text", searchData);
+            View.BindAttribute("Text", "Text", this.searchData);
         }
         
     }
