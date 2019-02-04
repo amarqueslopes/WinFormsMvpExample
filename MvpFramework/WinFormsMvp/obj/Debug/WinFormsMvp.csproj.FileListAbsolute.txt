@@ -1,0 +1,9 @@
+C:\Code\lex-in\MvpFramework\WinFormsMvp\bin\Debug\WinFormsMvp.dll
+C:\Code\lex-in\MvpFramework\WinFormsMvp\bin\Debug\WinFormsMvp.pdb
+C:\Code\lex-in\MvpFramework\WinFormsMvp\obj\Debug\WinFormsMvp.csprojResolveAssemblyReference.cache
+C:\Code\lex-in\MvpFramework\WinFormsMvp\obj\Debug\WinFormsMvp.dll
+C:\Code\lex-in\MvpFramework\WinFormsMvp\obj\Debug\WinFormsMvp.pdb
+C:\Code\MVP\MvpFramework\WinFormsMvp\bin\Debug\WinFormsMvp.dll
+C:\Code\MVP\MvpFramework\WinFormsMvp\bin\Debug\WinFormsMvp.pdb
+C:\Code\MVP\MvpFramework\WinFormsMvp\obj\Debug\WinFormsMvp.dll
+C:\Code\MVP\MvpFramework\WinFormsMvp\obj\Debug\WinFormsMvp.pdb

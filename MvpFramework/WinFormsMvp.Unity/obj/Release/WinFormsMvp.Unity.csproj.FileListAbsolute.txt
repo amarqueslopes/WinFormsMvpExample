@@ -1,0 +1,16 @@
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\bin\Release\WinFormsMvp.Unity.dll
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\bin\Release\WinFormsMvp.Unity.pdb
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\bin\Release\Microsoft.Practices.Unity.dll
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\bin\Release\WinFormsMvp.dll
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\bin\Release\WinFormsMvp.pdb
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\bin\Release\Microsoft.Practices.Unity.xml
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\obj\Release\WinFormsMvp.Unity.csprojResolveAssemblyReference.cache
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\obj\Release\WinFormsMvp.Unity.dll
+C:\Code\lex-in\MvpFramework\WinFormsMvp.Unity\obj\Release\WinFormsMvp.Unity.pdb
